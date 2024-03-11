@@ -6,7 +6,7 @@ sns.set(style='dark')
 
 
 #Load Data
-data_df= pd.read_csv('E:/Kuli/Sem 6/data/HTI-master/Data/PRSA_Data_Dongsi_20130301-20170228.csv')
+data_df= pd.read_csv('./Data/PRSA_Data_Dongsi_20130301-20170228.csv')
 data_df.head()
 
 #Titles
